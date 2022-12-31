@@ -8,25 +8,45 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
 </head>
 <body>
     <section class="header">
         <nav>
-            <div class="nav-links">
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times-circle" onclick="hideMenu()"></i>
                 <ul>
                     <li><a href="">HOME</a></li>
                     <li><a href="">WHAT IS FIGURE SKATING?</a></li>
                     <li><a href="">RECOMMENDED PERFORMANCES</a></li>
                 </ul>
             </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
         </nav>
 
         <div class="text-box">
             <h1>Welcome to Grace's Figure Skating Website!</h1>
             <p>Here, you can learn a bit about what figure skating is and get recommendations on where to start your
                 exploration of figure skating!</p>
-            <a href="" class="hero-btn">Get Started Here!</a>
+            <a href="" class="hero-btn">Get Started Here</a>
         </div>
     </section>
+
+
+    <!------JavaScript for Toggle Menu------->
+    <script>
+
+        var navLinks = document.getElementById("navLinks");
+
+        function showMenu() {
+            navLinks.style.left = "0";
+        }
+
+        function hideMenu() {
+            navLinks.style.left = "-200px";
+        }
+
+    </script>
+
 </body>
 </html>
