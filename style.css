@@ -120,6 +120,7 @@ nav .fa{
         margin: 10px;
         font-size: 22px;
         cursor: pointer;
+        align-items: center;
     }
 
     .nav-links ul{
