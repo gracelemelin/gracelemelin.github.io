@@ -165,9 +165,11 @@ nav .fa{
 .whatisfs-col h2{
     padding: 0px;
     margin: 0px;
+    line-height: 1.2;
 }
 
 .whatisfs-col p{
     padding: 0px;
     margin-top: 0px;
+    line-height: 2;
 }
