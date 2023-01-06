@@ -163,6 +163,11 @@ nav .fa{
 }
 
 .whatisfs-col h2{
-    margin-top: 1em;
-    margin-bottom: 1em;
+    padding: 0px;
+    margin: 0px;
+}
+
+.whatisfs-col p{
+    padding: 0px;
+    margin-top: 0px;
 }
