@@ -165,11 +165,10 @@ nav .fa{
 .whatisfs-col h2{
     padding: 0px;
     margin: 0px;
-    margin-top: 10px;
 }
 
 .whatisfs-col p{
     padding: 0px;
-    margin-top: 0px;
+    margin-top: 10px;
     line-height: 2;
 }
