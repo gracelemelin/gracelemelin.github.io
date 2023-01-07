@@ -160,17 +160,21 @@ nav .fa{
 .whatisfs-col img{
     max-width: 100%;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .whatisfs-col h2{
     padding: 0px;
     margin: 0px;
+    text-align: center;
 }
 
 .whatisfs-col p{
     padding: 0px;
     margin-bottom: 30px;
     line-height: 1.5;
+    text-align: center;
 }
 
 .blue-btn{
