@@ -212,3 +212,13 @@ nav .fa{
     margin-bottom: 30px;
     line-height: 1.5;
 }
+
+.recs-btn{
+    border: 1px solid #7393B3;
+    background: transparent;
+    color: #7393B3;
+}
+
+.recs-btn:hover{
+    color: #fff;
+}
