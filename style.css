@@ -174,13 +174,13 @@ nav .fa{
     padding: 0px;
     margin-bottom: 30px;
     line-height: 1.5;
-    text-align: center;
 }
 
 .blue-btn{
     border: 1px solid #7393B3;
     background: transparent;
     color: #7393B3;
+    padding: 12px 34px;
 }
 
 .blue-btn:hover{
