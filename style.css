@@ -185,3 +185,30 @@ nav .fa{
 .blue-btn:hover{
     color: #fff;
 }
+
+/*-------- Recs Page --------*/
+
+.recs{
+    width: 80%;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.recs-col{
+    flex-basis: 48%;
+    padding: 30px 2px;
+}
+
+.recs-col img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.recs-col p{
+    padding: 0px;
+    margin-bottom: 30px;
+    line-height: 1.5;
+}
