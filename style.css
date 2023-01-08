@@ -186,7 +186,8 @@ nav .fa{
     background: transparent;
     color: #7393B3;
     margin: auto;
-    width: 300px;
+    width: 325px;
+    padding: 0px;
 }
 
 .blue-btn:hover{
