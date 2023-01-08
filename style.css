@@ -180,6 +180,10 @@ nav .fa{
     border: 1px solid #7393B3;
     background: transparent;
     color: #7393B3;
+
+    margin-top: 15px;
+    text-align: center;
+    display: block;
 }
 
 .blue-btn:hover{
