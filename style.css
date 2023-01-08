@@ -23,10 +23,6 @@ nav{
 
 .nav-links{
     flex: 1;
-    /*
-
-    text-align: right;
-    */
     text-align: left;
 }
 
@@ -112,9 +108,6 @@ nav .fa{
         height: 100vh;
         width: 200px;
         top: 0;
-        /*
-         right: -200px;
-         */
          left: -200px;
         text-align: left;
         z-index: 2;
