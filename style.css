@@ -185,6 +185,8 @@ nav .fa{
     border: 1px solid #7393B3;
     background: transparent;
     color: #7393B3;
+    margin: auto;
+    width: 300px;
 /*
 
     margin-top: 15px;
