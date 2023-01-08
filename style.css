@@ -176,27 +176,12 @@ nav .fa{
     line-height: 1.5;
 }
 
-/*
-.whatisfs-col a{
-    text-align: center;
-    display: block;
-}
-*/
-
 .blue-btn{
     border: 1px solid #7393B3;
     background: transparent;
     color: #7393B3;
     margin: auto;
-    width: 500px;
-/*
-
-    margin-top: 15px;
-    
-    text-align: center;
-    display: block;
-
-    */
+    width: 700px;
 }
 
 .blue-btn:hover{
