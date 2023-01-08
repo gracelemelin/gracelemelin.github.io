@@ -176,6 +176,10 @@ nav .fa{
     line-height: 1.5;
 }
 
+.whatisfs-col a{
+    text-align: center;
+}
+
 .blue-btn{
     border: 1px solid #7393B3;
     background: transparent;
