@@ -1,3 +1,3 @@
-# Find website at gracelemelin.github.io
+# Find website at [gracelemelin.github.io](https://gracelemelin.github.io/)
 Website coded from scratch using HTML/CSS to share my passion for figure skating. 
 Coded on Visual Studio Code. 
